@@ -7,5 +7,6 @@ import org.springframework.boot.runApplication
 class LearnKotlinApplication
 
 fun main(args: Array<String>) {
+
 	runApplication<LearnKotlinApplication>(*args)
 }
